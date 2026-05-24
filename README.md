@@ -5,3 +5,14 @@ These are my Super Mario themed plant pots. I am planning to make these and add 
 My pots will be used to hold various plants. As I said earlier, the green one will be used for venus fly traps. The mushroom will be used for hopefully a pancake plant (they are both round so I think it will be cute), the Question Block will be used for my special plant, a succulent, which I love very much, and the brick block will probably hold a Spider plant or Pothos. I also made saucers (dishes) in appropriate shapes so the water from the drainage holes have somewhere to go.
 
 Project:
+
+Front
+
+Back
+
+Top
+
+Bottom
+
+
+Poster:
