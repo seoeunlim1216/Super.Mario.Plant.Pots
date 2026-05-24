@@ -19,4 +19,4 @@ Bottom
 ![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/blob/main/Bottom%20of%20Project)
 
 Poster:
-![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/commit/7846d32b5b0e49589401b9d889ee56c3d64e0e96)
+![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/blob/main/Zine)
