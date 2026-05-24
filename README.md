@@ -18,5 +18,5 @@ Top
 Bottom
 ![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/blob/main/Bottom%20of%20Project)
 
-Poster:
+Zine:
 ![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/blob/main/Zine)
