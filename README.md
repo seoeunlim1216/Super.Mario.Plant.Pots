@@ -19,4 +19,4 @@ Bottom
 ![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/blob/main/Bottom%20of%20Project)
 
 Poster:
-![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/blob/main/namealias%2C%20age%2C%20and%20which%20statecountry%20you%20are%20from%20(5.83%20x%208.27%20in)%20(A5)_20260523_194616_0000.png)
+![alt text](https://github.com/seoeunlim1216/Super.Mario.Plant.Pots/commit/7846d32b5b0e49589401b9d889ee56c3d64e0e96)
