@@ -1,14 +1,14 @@
 # Super.Mario.Plant.Pots
 Super Mario themed plant pots
 
-PETG
-4 wall loops
-0.20 mm layer height
-5 bottom layers
-5 top layers
-20% infill
-Gyroid infill pattern
-10°C higher nozzle temperature
+3D print settings: PETG,
+4 wall loops,
+0.20 mm layer height,
+5 bottom layers,
+5 top layers,
+20% infill,
+Gyroid infill pattern,
+10°C higher nozzle temperature,
 104% flow rate.
 
 These are my Super Mario themed plant pots. I am planning to make these and add a venus fly trap to one, to represent the Piranha Plant that live in the game. I love plants, and I have always wanted to make my own plant pot set. I hope I can learn how to make growth light to attach to it in the future. However, I am not skilled enough for that yet, but i will figure it out. This is one of my earlier projects, so I am still learning how to use OneShape.
